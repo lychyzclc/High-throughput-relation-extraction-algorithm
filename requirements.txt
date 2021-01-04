@@ -1,0 +1,6 @@
+pandas==1.1.3
+tqdm==4.45.0
+torch==1.7.0+cu110
+numpy==1.18.3
+PyMySQL==0.9.3
+spacy==2.2.2
